@@ -1,2 +1,2 @@
-# AI_Project
+# Deoldifying the Images
 Image Colorization
